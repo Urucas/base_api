@@ -1,0 +1,4 @@
+// To make raw queries:
+https://docs.djangoproject.com/en/1.6/topics/db/sql/
+
+Cines.objects.raw('SELECT nombre, direccion FROM cines')
