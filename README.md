@@ -1,4 +1,4 @@
-base_api
+Base API
 ========
 
-Base REST Api for JSON results
+Base REST Api in Django for delivering JSON results
